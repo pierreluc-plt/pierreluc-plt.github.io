@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pierre-Luc Thériault",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pl@pltheriault.com",
+    "phone": ,
+    "url": "https://pltheriault.com",
+    "summary": "A Canadian-born nonlinear photonics researcher currently working in the Light-Matter Group at Polytechnique Montréal",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": " ",
+      "city": "Montréal",
+      "countryCode": CAN",
+      "region": "Quebec"
     },
     "profiles": [
       {
