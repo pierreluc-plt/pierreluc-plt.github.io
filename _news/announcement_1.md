@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Begining of the website
+Beginning of the website
