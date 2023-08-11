@@ -6,7 +6,7 @@ description: The research projects I am involved in.
 nav: true
 nav_order: 2
 display_categories: [Projects]
-horizontal: false
+horizontal: True
 ---
 
 <!-- pages/projects.md -->
