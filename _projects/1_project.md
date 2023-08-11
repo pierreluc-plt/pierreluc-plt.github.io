@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Nonlinear refractive index of carbon nanotubes
+description: Near-resonance spectrally resolved nonlinear refractive index characterization of single-chirality carbon nanotubes
 img: assets/img/12.jpg
 importance: 1
 category: work
