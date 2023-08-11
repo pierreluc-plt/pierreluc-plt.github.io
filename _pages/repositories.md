@@ -1,3 +1,4 @@
+[//]: # Uncomment this to include a page about repositories
 [//]: # ---
 [//]: # layout: page
 [//]: # permalink: /repositories/
