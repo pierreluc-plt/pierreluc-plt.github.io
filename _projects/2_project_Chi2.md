@@ -4,7 +4,7 @@ title: $\chi^(2)$ of organic thin films
 description: Characterization of the second-order nonlinear properties of evaporated organic thin films 
 img: assets/img/3.jpg
 importance: 1
-category: Projects
+category: Nonlinear opticals properties characterization
 giscus_comments: false
 ---
 
