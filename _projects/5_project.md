@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Second-order properties of ScAlN
+description: Characterization of the nonlinear properties of epitaxially grown ScAlN 
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Nonlinear optical properties characterization
 ---
 
 Every project has a beautiful feature showcase page.
