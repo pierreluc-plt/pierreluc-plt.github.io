@@ -4,7 +4,7 @@ title: Optical bistability
 description: Design and fabrication of optically bistable devices 
 img: assets/img/7.jpg
 importance: 3
-category: Projects
+category: Nonlinear photonic devices design
 ---
 
 Every project has a beautiful feature showcase page.
