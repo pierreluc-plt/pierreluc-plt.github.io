@@ -5,7 +5,7 @@ permalink: /research/
 description: The research projects I am involved in.
 nav: true
 nav_order: 2
-display_categories: [Projects]
+display_categories: [Nonlinear opticals properties characterization, Nonlinear photonic devices design]
 horizontal: True
 ---
 
