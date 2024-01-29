@@ -1,6 +1,6 @@
 ---
 layout: page
-title: $\chi^(2)$ of organic thin films
+title: Second-order processes in organic thin films
 description: Characterization of the second-order nonlinear properties of evaporated organic thin films 
 img: assets/img/3.jpg
 importance: 1
