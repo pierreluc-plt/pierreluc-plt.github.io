@@ -4,8 +4,8 @@
     - name: Full Name
       value: Pierre-Luc Thériault
     - name: Languages
-      value: French, English, 
-
+      value: French, English
+      
 - title: Education
   type: time_table
   contents:
@@ -13,18 +13,13 @@
       institution: Polytechnique Montréal
       year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - PhD student in Engineering physics in the Light-Matter group (led by Prof. Kéna-Cohen)
+        - title: Research topics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Nonlinear optical materials
+            - Integrated photonics
+            - Optical bistabilty 
+
 
 - title: Experience
   type: time_table
@@ -95,13 +90,7 @@
     - <u>Hobbies:</u> Hiking, Cycling,Reading
 
 
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Pierre-Luc Thériault
-#     - name: Languages
-#       value: French, English, 
+
 
 # - title: Education
 #   type: time_table
