@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nonlinear refractive index of CNT
+title: "Nonlinear refractive index of CNT"
 description: Near-resonance spectrally resolved nonlinear refractive index characterization of single-chirality carbon nanotubes
 img: assets/img/ZScanTrace.jpg
 importance: 1
