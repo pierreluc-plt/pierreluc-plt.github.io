@@ -6,7 +6,7 @@ description: The research projects I am involved in.
 nav: true
 nav_order: 2
 display_categories: [Nonlinear optical properties characterization, Nonlinear photonic devices design]
-horizontal: False
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
