@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+Publications 
+------------
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
