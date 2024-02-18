@@ -7,23 +7,23 @@ nav: true
 display_categories: [Publications, Conference presentations, Conference posters]
 nav_order: 1
 ---
+
+# Publications 
+---------
+
 <!-- _pages/publications.md -->
 <div class="Publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f papers {{ site.scholar.bibliography }} %}
 
 </div>
 
+# Conference presentations 
+-----
 <!-- _pages/publications.md -->
 <div class="Conference presentations">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f posters {{ site.scholar.bibliography }} %}
 
 </div>
 
-<!-- _pages/publications.md -->
-<div class="Conference posters">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
