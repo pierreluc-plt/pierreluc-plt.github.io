@@ -7,7 +7,21 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="Publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
+
+<!-- _pages/publications.md -->
+<div class="Conferences presentations">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
+
+<!-- _pages/publications.md -->
+<div class="Conferences posters">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
