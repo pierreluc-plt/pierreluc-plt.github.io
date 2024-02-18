@@ -14,7 +14,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="Publications">
 
-{% bibliography -f papers {{ site.scholar.bibliography }} %}
+{% bibliography --file papers {{ site.scholar.bibliography }} %}
 
 </div>
 
@@ -23,7 +23,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="Conference presentations">
 
-{% bibliography -f posters {{ site.scholar.bibliography }} %}
+{% bibliography --file posters {{ site.scholar.bibliography }} %}
 
 </div>
 
