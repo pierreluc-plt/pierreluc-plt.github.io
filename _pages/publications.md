@@ -14,3 +14,7 @@ Publications
 
 
 
+Posters
+------------
+
+{% bibliography --file posters %}
