@@ -15,7 +15,7 @@ nav_order: 1
 ## Conference presentations 
 ------------
 
-{% bibliography --file presentations %}
+{% bibliography --file talks %}
 
 ## Conferences posters
 ------------
