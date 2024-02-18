@@ -24,6 +24,6 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="Conference posters">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.posters }} %}
 
 </div>
