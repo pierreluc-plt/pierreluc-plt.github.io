@@ -12,5 +12,7 @@ Publications
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-
+Posters
+----------
+{% bibliography --file posters {{ site.scholar.bibliography }} %}
 
