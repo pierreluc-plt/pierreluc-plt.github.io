@@ -8,9 +8,8 @@ display_categories: [Publications, Conference presentations, Conference posters]
 nav_order: 1
 ---
 
-# Publications 
----------
-
+Publications
+-------------
 <!-- _pages/publications.md -->
 <div class="Publications">
 
@@ -18,8 +17,8 @@ nav_order: 1
 
 </div>
 
-# Conference presentations 
------
+Conferences 
+-------------
 <!-- _pages/publications.md -->
 <div class="Conference presentations">
 
