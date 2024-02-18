@@ -13,7 +13,7 @@ Publications
 <!-- _pages/publications.md -->
 <div class="Publications">
 
-{% bibliography --file papers {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
 
@@ -22,7 +22,7 @@ Conferences
 <!-- _pages/publications.md -->
 <div class="Conference presentations">
 
-{% bibliography --file posters {{ site.scholar.bibliography }} %}
+{% bibliography -f posters {{ site.scholar.bibliography }} %}
 
 </div>
 
