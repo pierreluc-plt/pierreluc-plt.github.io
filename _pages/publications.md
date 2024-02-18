@@ -10,9 +10,7 @@ nav_order: 1
 Publications 
 ------------
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography  %}
 
-Posters
-----------
-{% bibliography -f posters {{ site.scholar.bibliography }} %}
+
 
