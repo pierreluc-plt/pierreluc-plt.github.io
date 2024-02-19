@@ -16,7 +16,6 @@ Coming (hopefully) soon!
 
 ### **Conference presentations**
 -----------
- To be updated
 {% bibliography --file talks %}
 
 ### **Conferences posters**
