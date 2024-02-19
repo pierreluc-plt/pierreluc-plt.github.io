@@ -7,18 +7,18 @@ nav_order: 1
 ---
  A brief list of research outputs to which I contributed, sorted by year. 
 
-## **Publications **
+### **Publications**
 ----------
 Coming (hopefully) soon! 
 
 {% bibliography --file papers %}
 
 
-## **Conference presentations**
+### **Conference presentations**
 -----------
  To be updated
 {% bibliography --file talks %}
 
-## **Conferences posters**
+### **Conferences posters**
 ------------
 {% bibliography --file posters %}
