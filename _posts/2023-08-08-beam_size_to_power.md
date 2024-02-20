@@ -1,4 +1,3 @@
-
 ---
 layout: distill
 title: Power, fluence, waist and other beam parameters
