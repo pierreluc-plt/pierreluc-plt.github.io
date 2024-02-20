@@ -1,13 +1,14 @@
+
 ---
 layout: post
-title: Converting experimental beam parameters to a peak intensity 
-date: 2023-08-11 11:12:00-0400
-description: an example of a blog post with some math
-tags: formatting math
+title: a post with bibliography
+date: 2024-02-19 09:56:00-0400
+description: Beam diameter, power, repetition rate, pulse duration,  fluence and power
+tags: formatting bib
 categories: sample-posts
+giscus_comments: true
 related_posts: false
 ---
-
 A brief post expliciting how power, beam diameter, pulse duration and repetition rate are related. This is available elsewhere on the web but I wanted to write a short version which I can easily find and understand.
 *To be updated*
 
