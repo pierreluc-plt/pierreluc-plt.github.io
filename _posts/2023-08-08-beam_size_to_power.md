@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: {To be completed : Power, fluence, waist and other beam parameters}
+title: To be completed -> Power, fluence, waist and other beam parameters
 date: 2024-02-18 09:56:00-0400
 description: Beam diameter, power, repetition rate, pulse duration,  fluence and power
 tags: formatting bib
