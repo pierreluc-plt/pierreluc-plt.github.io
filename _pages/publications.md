@@ -9,7 +9,6 @@ nav_order: 1
 
 ### **Publications**
 ----------
-Coming (hopefully) soon! 
 
 {% bibliography --file papers %}
 
