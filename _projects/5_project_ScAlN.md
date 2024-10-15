@@ -2,7 +2,7 @@
 layout: page
 title: Second-order properties of ScAlN
 description: Characterization of the nonlinear properties of epitaxially grown ScAlN 
-img: assets/img/1.jpg
+img: assets/img/None.jpg
 importance: 3
 category: Nonlinear optical properties characterization
 ---
