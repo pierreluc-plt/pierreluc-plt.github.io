@@ -4,7 +4,7 @@ title: Nonlinear integrated photonics with organic films
 description: Design, fabrication and testing of strip-loaded waveguides on organic thin films with large second-order nonlinearities. 
 img: assets/img/NonlinearOrganicWaveguides2.jpg
 importance: 3
-category:  Nonlinear photonic devices design
+category:  Nonlinear photonic devices
 ---
 
 I will be presenting the preliminary results for this project at FiO 2025 at the end of October: 
