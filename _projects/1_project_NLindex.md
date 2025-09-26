@@ -2,7 +2,7 @@
 layout: page
 title: "Nonlinear refractive index of carbon nanotubes"
 description: Near-resonance spectrally resolved nonlinear refractive index characterization of single-chirality carbon nanotubes
-img: assets/img/ZScanTrace.jpg
+img: assets/img/ZScanTraces.png
 importance: 1
 category: Nonlinear optical properties characterization
 related_publications:
