@@ -14,4 +14,4 @@ Fundamental-Mode Phase-Matching for Nonlinear Optics in Spontaneously-Oriented O
 *Abstract:*
 We demonstrate efficient second-order nonlinear interactions in strip-loaded waveguides using spontaneously-oriented organic films. Their large anisotropy enables fundamental-mode phase-matching, which provides an inherently large modal overlap, overcoming a key challenge in integrated photonics.
 
-*Authors:*Pierre-Luc Thériault, Polytechnique Montréal / Stéphane Kéna-Cohen, Polytechnique Montréal
+*Authors:* Pierre-Luc Thériault, Polytechnique Montréal / Stéphane Kéna-Cohen, Polytechnique Montréal
